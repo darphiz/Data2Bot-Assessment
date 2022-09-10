@@ -1,0 +1,20 @@
+{
+    attributes: {
+      "appName": "ABCDEFGHIJKLMNOPQRSTUVW",
+      "eventType": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "subEventType": "ABCDEFGHIJKLMNO",
+      "sensitive": false
+    },
+    "message": {
+      "user": {
+        "id": "ABCDEFGHIJKLMNOP",
+        "nickname": "ABCD",
+        "title": "ABCDEFGHIJKLMNOPQRSTUVWXYZABC",
+        "accountType": "ABCDEFGHIJKLMNOPQRSTUVWX",
+        "countryCode": "ABCDEFGHIJKLMNOPQRSTUVWX",
+        "orientation": "ABCDEFGHIJKLMNOPQRSTU"
+      }
+    
+    }
+
+}
